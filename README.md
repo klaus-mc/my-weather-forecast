@@ -26,8 +26,11 @@ yarn dev # if you use yarn
 
 ```
 
-after these steps the application will be available at : http://localhost:8080
+After these steps the application will be available at : http://localhost:8080
 
 ## SOME IMAGES
+
+Before and After
+
 ![Sreenshoots](https://github.com/klaus-mc/my-weather-forecast/blob/master/image1.png)
 ![Sreenshoots](https://github.com/klaus-mc/my-weather-forecast/blob/master/image2.png)
