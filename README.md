@@ -1,24 +1,27 @@
 # my-weather-forecast
+``
+This is a small Project I made which **main aim** is to collect weather data for a given city from an API for the next 5 days of the week.
+Incase no City is typed in the Input-field, you will obtain as default result the weather of Berlin for the next 5 days. 
 
-## Project setup
-```
-npm install
-```
+## TECHNOLOGY STACK
+``
+ I used the Javascript framework **Vue.js** for this Project.
 
-### Compiles and hot-reloads for development
+## INSTALLATION
+Follow these steps to Install and run this Project:
 ```
-npm run serve
-```
+git clone https://github.com/klaus-mc/my-weather-forecast.git
 
-### Compiles and minifies for production
-```
-npm run build
-```
+cd my-weather-forecast 
 
-### Lints and fixes files
-```
-npm run lint
-```
+# make sure you have node or yarn install on your computer ( in case you get any errors )
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm install # if you use npm 
+# or
+yarn install # if you use yarn 
+
+npm run serve # if you use npm 
+# or
+yarn dev # if you use yarn
+
+after these steps the application will be available at : http://localhost:8080
