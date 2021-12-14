@@ -1,10 +1,10 @@
 # my-weather-forecast
-``
-This is a small Project I made which **main aim** is to collect weather data for a given city from an API for the next 5 days of the week.
+
+This is a small Project I made which **main aim** is to collect weather data for a given city from a given  API for the next 5 days of the week.
 Incase no City is typed in the Input-field, you will obtain as default result the weather of Berlin for the next 5 days. 
 
 ## TECHNOLOGY STACK
-``
+
  I used the Javascript framework **Vue.js** for this Project.
 
 ## INSTALLATION
@@ -24,4 +24,10 @@ npm run serve # if you use npm
 # or
 yarn dev # if you use yarn
 
+```
+
 after these steps the application will be available at : http://localhost:8080
+
+## SOME IMAGES
+![Sreenshoots](C:\projets\my-weather-forecast\image1.png)
+![Sreenshoots](C:\projets\my-weather-forecast\image1.png)
