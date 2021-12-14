@@ -29,5 +29,5 @@ yarn dev # if you use yarn
 after these steps the application will be available at : http://localhost:8080
 
 ## SOME IMAGES
-![Sreenshoots](C:\projets\my-weather-forecast\image1.png)
-![Sreenshoots](C:\projets\my-weather-forecast\image1.png)
+![Sreenshoots](https://github.com/my-weather-forecast/klaus-mc/blob/master/image1.png)
+![Sreenshoots](https://github.com/my-weather-forecast/klaus-mc/blob/master/image2.png)
